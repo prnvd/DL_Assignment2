@@ -9,4 +9,7 @@ keras.layers \
 keras.models \
 keras.utils \
 sklearn.model_selection \
-keras.utils.vis_utils
+keras.utils.vis_utils \
+\
+\
+*this repository is only for assignment purpose*
