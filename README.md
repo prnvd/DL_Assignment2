@@ -1,12 +1,12 @@
 # DL_Assignment2
 Convolutional Neural Network Assignment
 
-required libraries:
-numpy\n
-matplotlib.pyplot\n
-keras\n
-keras.layers\n
-keras.models\n
-keras.utils\n
-sklearn.model_selection\n
+**Required libraries:** \
+numpy \
+matplotlib.pyplot \
+keras \
+keras.layers \
+keras.models \
+keras.utils \
+sklearn.model_selection \
 keras.utils.vis_utils
